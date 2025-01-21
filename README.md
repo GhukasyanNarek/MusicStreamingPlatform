@@ -80,3 +80,10 @@ Also, I drew more detailed relationships between each table and their dependenci
 - Modeled database features inspired by Apple Music, supporting realistic use cases like many-to-many playlist-song relationships.  
 - Enforced strong referential integrity using primary and foreign keys across all tables.  
 - Achieved top grade by demonstrating advanced SQL programming, database design, and real-world problem-solving.
+
+---
+🙌 Contributors
+
+This project was collaboratively developed by:
+- [Narek Ghukasyan](https://github.com/GhukasyanNarek)
+- [Levon Ghukasyan](https://github.com/LevonGhukas)
